@@ -57,6 +57,7 @@
                   :style="item.content==true?'text-decoration: line-through;':'text-decoration: none;'"
                 />
                 <span class="suoyouright" @click="shanchu(index)">一</span>
+                <span class="suoyouright1">...</span>
               </div>
               <div class="suoyouxia">
                 <el-date-picker
@@ -493,9 +494,9 @@ export default {
   float: right;
   width: 50px;
   height: 30px;
-  margin-right: 20px;
+  margin-right: 10px;
   border-radius: 8px;
-  background: rgb(210, 210, 210);
+  background: rgb(232, 232, 232);
 }
 .wianjiaduixaing {
   width: 80%;
