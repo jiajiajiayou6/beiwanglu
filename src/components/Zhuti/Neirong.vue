@@ -318,9 +318,6 @@ export default {
 .search .list {
   height: 150px;
 }
-.search .list ul {
-  /* border-bottom: 1px solid gray; */
-}
 .search .list li {
   height: 50px;
   font-size: 15px;
