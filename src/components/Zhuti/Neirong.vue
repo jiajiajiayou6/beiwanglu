@@ -294,7 +294,7 @@ export default {
   border-radius: 10px;
   border: none;
   outline: none;
-  background-color: #f3eded;
+  background-color: #e8e8e8;
   padding-left: 10px;
 }
 .search .inpt span {
@@ -361,7 +361,7 @@ export default {
   width: 25%;
   height: 40px;
   line-height: 40px;
-  background: rgb(220, 220, 220);
+  background: rgb(255, 255, 255);
   position: absolute;
   border-radius: 8px;
   bottom: 0;
@@ -398,7 +398,7 @@ export default {
 .right {
   width: 75%;
   height: 100%;
-  background: rgb(222, 222, 222);
+  background-color: #e8e8e8;
   border-radius: 0 8px 8px 0;
 }
 .right1 {
